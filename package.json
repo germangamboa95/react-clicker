@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "create-react-class": "^15.6.3",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4"
+    "react-flip-move": "^3.0.2",
+    "react-scripts": "1.1.4",
+    "react-shuffle": "^2.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
